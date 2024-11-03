@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arhamkhan779
-- 👀 I’m interested in Machine Learning, Deep Learning and Daa Science Roles
+- 👀 I’m interested in Machine Learning, Deep Learning and Data Science Roles
 - 🌱 I’m currently learning Artificial Intelligence based solutions
 - 💞️ I’m looking to collaborate on AI base Solutions
 - 😄 Pronouns: ...
